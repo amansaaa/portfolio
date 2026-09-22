@@ -25,7 +25,7 @@ export default function Home() {
             <UnderlineLink href="https://example.com" external className="font-normal">
               Euphoric Posters 
             </UnderlineLink>{" "}
-            ($5K+ in revenue, 200+ orders, 40K+ session visits)
+            ($5K+ in revenue, 200+ orders, 25K+ session visits)
           </SubBullet>
 
            <SubBullet>
@@ -42,7 +42,7 @@ export default function Home() {
             <UnderlineLink href="https://vvisualize.app/" external className="font-normal">
               visualize
             </UnderlineLink>{" "}
-              implementing an agent pipeline to compose visualizations
+              implementing an AI agent pipeline to compose visualizations
           </SubBullet>
 
         </SubList>
