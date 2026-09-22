@@ -35,6 +35,7 @@ export default function ProjectCard({ title, description, href, github, image, v
       alt={title}
       width={1200}
       height={750}
+      sizes="(max-width: 768px) 100vw, 672px"
       className="rounded-t-lg w-full h-[250px] group-hover:h-[275px] object-cover object-top transition-all duration-500"
     />
   ) : (
